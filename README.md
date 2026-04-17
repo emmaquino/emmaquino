@@ -46,7 +46,7 @@ I'm a diabetes advocate and member of the **IDF Young Leaders in Diabetes** prog
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luisbert--aquino-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/luisbert-aquino)
-[![HackerOne](https://img.shields.io/badge/HackerOne-emmaquino-494649?style=flat&logo=hackerone)](https://hackerone.com/emmaquino)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-emmaquino-212C42?style=flat&logo=tryhackme)](https://tryhackme.com/p/blackflame)
+[![HackerOne](https://img.shields.io/badge/HackerOne-blackflame-494649?style=flat&logo=hackerone)](https://hackerone.com/blackflame)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-blackflame-212C42?style=flat&logo=tryhackme)](https://tryhackme.com/p/blackflame)
 
 📧 Open to remote contractor opportunities in penetration testing and red team operations.
