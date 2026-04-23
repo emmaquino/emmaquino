@@ -7,7 +7,7 @@ Based in Santo Domingo, Dominican Republic 🇩🇴 — open to remote contracto
 
 ## What I Do
 
-I build and break things. Two and a half years securing government infrastructure at the Dominican Republic's Ministry of Tourism — Docker, PostgreSQL, Nginx, Prometheus/Grafana, incident response — while training actively on the offensive side.
+I build and break things. Two and a half years securing government infrastructure in the Dominican Republic — Docker, PostgreSQL, Nginx, Prometheus/Grafana, incident response — while training actively on the offensive side.
 
 **Offensive Security**
 - OWASP Top 10 · Web, Network & API Pentesting · Active Directory Attacks
