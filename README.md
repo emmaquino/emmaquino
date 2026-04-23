@@ -12,7 +12,7 @@ I build and break things. Two and a half years securing government infrastructur
 **Offensive Security**
 - OWASP Top 10 · Web, Network & API Pentesting · Active Directory Attacks
 - Tools: Burp Suite Pro · Metasploit · BloodHound · Mimikatz · Nmap · Nessus
-- 🏆 TryHackMe Top 100 All-Time — Dominican Republic · 77+ rooms completed
+- 🏆 TryHackMe Top 100 All-Time — Dominican Republic · 95+ rooms completed
 - Certifications: PMJ (Pentester Mentor Junior) · Google Cybersecurity Foundations
 - Currently preparing: PNPT → OSCP
 
